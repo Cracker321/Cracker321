@@ -18,9 +18,7 @@
   <br>
 - I'm applying this knowledge for more effective service development.
   <br>
-- I value learning new technologies and experiences.
-  <br>
-- I believe in writing maintainable code which is understandable to everyone.
+- I value learning new technologies and experiences and believe in writing maintainable code which is understandable to everyone.
 
 
 <br>
