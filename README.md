@@ -11,6 +11,18 @@
    <br>새로운 무엇이든 관심이 생기면 빠르게 도전하고 실행합니다.
 - 유지보수하기 좋은 코드가 누구든지 이해할 수 있는, 좋은 코드라고 생각합니다.
 
+
+- Hello! I'm Yujong Cho, a back-end developer with a passion for learning and teamwork.
+  <br>
+- I've recently acquired the Certified Kubernetes Administrator(CKA) credential, building a foundational understanding of Kubernetes, a technology for implementing cloud-native applications.
+  <br>
+- I'm applying this knowledge for more effective service development.
+  <br>
+- I value learning new technologies and experiences.
+  <br>
+- I believe in writing maintainable code which is understandable to everyone.
+
+
 <br>
 
 ## 🛠 Tech Stacks
