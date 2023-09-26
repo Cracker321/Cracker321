@@ -14,9 +14,9 @@
   <br>
 - Hello! I'm Yujong Cho, a back-end developer with a passion for learning and teamwork.
   <br>
-- I've recently acquired the Certified Kubernetes Administrator(CKA) credential, building a foundational understanding of Kubernetes, a technology for implementing cloud-native applications.
+  I've recently acquired the Certified Kubernetes Administrator(CKA) credential, building a foundational understanding of Kubernetes, a technology for implementing cloud-native applications.
   <br>
-- I'm applying this knowledge for more effective service development.
+  I'm applying this knowledge for more effective service development.
   <br>
 - I value learning new technologies and experiences and believe in writing maintainable code which is understandable to everyone.
 
