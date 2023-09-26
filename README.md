@@ -1,6 +1,6 @@
 ## 🚀About Me
 
-- 안녕하세요! 협업과 배움을 좋아하는 백엔드 개발자 조유종 입니다.
+- 안녕하세요! 쿠버네티스에 대한 기본 이해를 바탕으로 꾸준히 성장하는 개발자가 되기 위해 정진하는 조유종입니다.
 - 최근에는 클라우드 네이티브 구현 기술인 쿠버네티스에 대한 기본 이해를 바탕으로
   <br>Certified Kubernetes Administrator(CKA) 자격증을 취득했습니다.
   <br>
@@ -33,6 +33,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AWS&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
